@@ -107,6 +107,20 @@ body:after {
 }
 
 
+.telegram{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  height: 20%;
+}
+
+.telegram img{
+  width: 50px;
+  cursor: pointer;
+}
+
 .spin {
   align-items: center;
 
