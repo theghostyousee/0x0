@@ -33,7 +33,7 @@ body {
   flex-direction: column;
   background-color: rgb(255, 255, 255);
   overflow: hidden;
-  background: url("https://solana.com/src/img/branding/solanaGradient.jpg") no-repeat center center /cover;
+  background: url("https://solana.com/src/img/branding/.jpg") no-repeat center center /cover;
 
 
   background-repeat: no-repeat;
@@ -133,14 +133,6 @@ img{
     width: 220px;
 }
 
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
 
 @media screen and (max-width: 420px) {
   .index-header {
